@@ -8,9 +8,14 @@ description: >
   be more rigorous, poke holes, identify flaws, or ask what is missing. Use magi instead for
   multi-perspective external counsel.
 license: MIT
+metadata:
+  original-author: "Erik Syvertsen"
+  upstream: "https://github.com/eriksyvertsen/skills/tree/main/critical-thinking-skill"
 ---
 
 # Critical Thinking Skill
+
+> Originally created by [Erik Syvertsen](https://github.com/eriksyvertsen/skills/tree/main/critical-thinking-skill), adapted and extended.
 
 This skill operationalizes the Paul-Elder Framework for Critical Thinking™ (based on the Wheel of Reason from the Foundation for Critical Thinking) to elevate the quality of reasoning in every response.
 
