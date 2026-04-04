@@ -8,6 +8,7 @@ description: >
   be more rigorous, poke holes, identify flaws, or ask what is missing. Use magi instead for
   multi-perspective external counsel.
 license: MIT
+effort: high
 metadata:
   original-author: "Erik Syvertsen"
   upstream: "https://github.com/eriksyvertsen/skills/tree/main/critical-thinking-skill"
