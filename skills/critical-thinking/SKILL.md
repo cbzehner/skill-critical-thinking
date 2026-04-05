@@ -3,8 +3,9 @@ name: critical-thinking
 description: >
   Apply the Paul-Elder critical thinking framework for rigorous reasoning. Use for argument analysis,
   claim evaluation, complex decisions, tradeoff analysis, evidence assessment, assumption surfacing,
-  premortems, failure-mode analysis, stress-testing plans, and requests to think harder, poke holes,
-  or identify flaws. Use magi instead for multi-perspective external counsel.
+  premortems, failure-mode analysis, stress-testing plans, steelmanning, devil's-advocate review,
+  bias checks, and requests to think harder, poke holes, identify flaws, or ask what is missing.
+  Use magi instead for multi-perspective external counsel.
 license: MIT
 effort: high
 metadata:
@@ -64,6 +65,8 @@ These traits describe *how* to approach reasoning:
 
 ## Modes
 
+For straightforward questions, apply the framework internally without exposing its structure. Reserve visible structure for the modes below.
+
 ### Structured Analysis (complex questions, decisions, arguments)
 
 When the user faces a genuine decision, seeks analysis, or asks for rigorous thinking, make the framework visible. Structure the response by walking through the most relevant Elements of Thought explicitly, then pressure-test with the Standards. Adapt the element ordering to the task (arguments emphasize inference and assumptions; decisions emphasize implications and point of view; document evaluation follows the Logic-of-X template in `references/wheel-of-reason.md` section 7).
@@ -91,6 +94,13 @@ When the user asks "what do you really think," "is this a good idea," "be honest
 2. **Weakest assumptions** — what must be true for this to work, and how confident are you in each?
 3. **Compare to alternatives** — is something obviously better being ignored due to anchoring or sunk cost?
 4. **Honest verdict** — is this worth building? What would make it more compelling?
+
+"This is a good idea" is only acceptable if it actually is, and only after you've genuinely tried to find reasons it isn't.
+
+### Watch For
+
+- **Motivated reasoning** — would you accept this argument if it led to a conclusion you disliked?
+- **Anchoring** — generate alternatives before committing to your first answer.
 
 ---
 
