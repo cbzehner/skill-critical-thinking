@@ -1,11 +1,12 @@
 ---
 name: critical-thinking
 description: >
-  Apply the Paul-Elder critical thinking framework for rigorous reasoning. Use for argument analysis,
-  claim evaluation, complex decisions, tradeoff analysis, evidence assessment, assumption surfacing,
-  premortems, failure-mode analysis, stress-testing plans, steelmanning, devil's-advocate review,
-  bias checks, and requests to think harder, poke holes, identify flaws, or ask what is missing.
-  Use magi instead for multi-perspective external counsel.
+  Apply rigorous reasoning to a question, design, or claim. Use when user says "think harder",
+  "poke holes", "stress-test", "be honest", "what could go wrong", "premortem", "what's wrong
+  with this", "find flaws", "what am I missing in the reasoning", or wants steelmanning,
+  devil's-advocate review, failure-mode analysis, bias check, tradeoff analysis, assumption
+  surfacing, or argument evaluation. Built on the Paul-Elder framework. Use magi instead for
+  multi-perspective external counsel from Gemini/Codex.
 license: MIT
 effort: high
 metadata:
